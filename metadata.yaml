@@ -1,0 +1,29 @@
+_repo: How-to-Study-Architecture_60830
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caffin, Charles H. (Charles Henry)
+    alias: Caffin, Charles Henry
+    birthdate: 1854
+    deathdate: 1918
+    gutenberg_agent_id: '50268'
+    url: http://www.gutenberg.org/2009/agents/50268
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Henry_Caffin
+description: ''
+gutenberg_issued: '2019-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60830'
+  lccn: '17024868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture -- History'
+- GITenberg
+tableOfContents: Introduction -- Pre-Classic period -- Classic period -- Post-Classic
+  period -- Gothic period -- The Renaissance period -- Post-Renaissance period.
+title: How to Study Architecture
+url: http://www.gutenberg.org/ebooks/60830
